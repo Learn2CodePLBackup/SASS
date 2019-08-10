@@ -1,0 +1,13 @@
+@mixin css-reset {
+    margin: 0;
+    padding: 0;
+}
+
+@mixin background {
+    background-color: $main-theme-background-color;
+}
+
+
+@function subheader-font-size($base-size) {
+    @return 0.5*$base-size;
+}

@@ -1,2 +1,2 @@
-# SASS
-sass
+# FastRepo
+quickfix

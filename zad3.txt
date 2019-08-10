@@ -1,0 +1,58 @@
+<!DOCTYPE HTML>
+<html>
+<body>
+	<header>
+		<nav>
+			<ul>
+				<li>menu</li>
+				<li>menu</li>
+				<li>menu</li>
+				<li class="cta">menu</li>
+			</ul>
+		</nav>
+	</header>
+	<section>
+		<article>
+			<header>
+				<h2>Article title</h2>
+				<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis imperdiet massa tincidunt nunc pulvinar sapien et. Eu sem integer vitae justo eget magna fermentum iaculis eu. Quisque sagittis purus sit amet volutpat consequat. Nibh sit amet commodo nulla facilisi nullam. </p>
+			</header>
+			<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+		</article>
+		<div class="ads">
+			<div class="ads-content">Et netus et malesuada fames ac turpis egestas. </div>
+			<p class="ads-desc">Ullamcorper a lacus vestibulum sed arcu non odio. Dignissim diam quis enim lobortis scelerisque. Tortor vitae purus faucibus ornare suspendisse sed nisi.</p>
+		</div>
+		<article>
+			<header>
+				<h2>Article title</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis imperdiet massa tincidunt nunc pulvinar sapien et. Eu sem integer vitae justo eget magna fermentum iaculis eu. Quisque sagittis purus sit amet volutpat consequat. Nibh sit amet commodo nulla facilisi nullam.</p>
+			</header>
+			<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+		</article>
+		<article>
+			<header>
+				<h2>Article title</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis imperdiet massa tincidunt nunc pulvinar sapien et. Eu sem integer vitae justo eget magna fermentum iaculis eu. Quisque sagittis purus sit amet volutpat consequat. Nibh sit amet commodo nulla facilisi nullam.</p>
+			</header>
+			<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+		</article>
+	</section>
+	<aside>
+		<h2>About section</h2>
+		<p>Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+	</aside>
+	<footer>
+		<p>Contact info</p>
+	</footer>
+</body>
+</html>
+
+Zdania:
+* Ustaw kolor czcionki paragrafów na czerwony.
+* Ustaw tło drugiego paragrafu na błękitne
+* Ustaw tło elementu o klasie ads-desc na szare
+* Zmień rozmiar czcionki tekstu w paragrafach, które są pierwszym potomkiem rodzica do 10px
+* W ostatnim elemencie 'article' powinien wyświetlać się tylko nagłówek
+* Menu nawigacyjne powinno się wyświetlać w poziomej linii
+* jeden zelementów menu powinien prowadzić do drugiego dokumentu o nazwie drugiDoc.html

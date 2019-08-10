@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+  </head>
+  <body>
+    <h1>Naglowek 1</h1>
+	<h2>Naglowek 2</h2>
+	<h3>Naglowek 3</h3>
+	<h4>Naglowek 4</h4>
+	<h5>Naglowek 5</h5>
+	<h6>Naglowek 6</h6>
+    
+	<section>
+		<article>
+			<div class="adsContainer">To jest div important </div>
+			<p class="adsContainer"> To jest paragraf important </p>
+		</article>
+	</section>
+	
+	<section>
+		<article>
+			<div class="adsContainer">To jest div important </div>
+			<p class="adsContainer"> To jest paragraf important </p>
+		</article>
+	</section>
+	
+	<section>
+		<article>
+			<div class="adsContainer">To jest div important </div>
+			<p class="adsContainer"> To jest paragraf important </p>
+		</article>
+	</section>
+    
+    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis imperdiet massa tincidunt nunc pulvinar sapien et. Eu sem integer vitae justo eget magna fermentum iaculis eu. Quisque sagittis purus sit amet volutpat consequat. Nibh sit amet commodo nulla facilisi nullam.</p>
+
+    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis imperdiet massa tincidunt nunc pulvinar sapien et. Eu sem integer vitae justo eget magna fermentum iaculis eu. Quisque sagittis purus sit amet volutpat consequat. Nibh sit amet commodo nulla facilisi nullam.</p>
+  </body>
+</html>
+
+* ustaw kolor wszystkich naglowkow na rozowy
+* zmien kolor wszystkich elementów typu <p> o klasie adsContainer na niebieski
+* drugi element <p> o klasie AdsContainer" powinien mieć szare tło i biały czarny tekst
