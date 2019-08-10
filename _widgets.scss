@@ -1,0 +1,26 @@
+$button-background: green;
+$font-size-main: 0.75em;
+@function radius(size){
+    border-radius: size*2;
+}
+
+.button {
+    background: $button-background;
+    font-size: $font-size-main;
+    color: white;
+    border-radius: radius(5px);
+}
+
+.error {
+    background: red;
+    color: black;
+    font-size: $font-size-main;
+    border-radius: radius(5px);
+}
+
+.info {
+    background: blue;
+    color: yellow;
+    font-size: $font-size-main;
+    border-radius: radius(7px);
+}

@@ -1,0 +1,12 @@
+@mixin opacity {
+    opacity: 0.0;
+}
+
+.main-menu {
+    @include opacity;
+    display: inline;
+    p:hover {
+        color: black;
+    }
+}
+

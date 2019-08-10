@@ -1,33 +1,13 @@
-@import './func';
-@import './vars';
+@import "./widgets.scss";
 
+$font-color: red;
+$font-base-size: 30px;
+$font-family: "Monospace";
+$main-color: blue;
+$secondary-color: green;
+$error-color: red;
+$info-color: yellow;
 
-* {
-    font-size: $base-font-size;
-    @include css-reset;
-    
+.main {
+    color: $main-color;
 }
-
-.main-content {
-    color: palegoldenrod;
-    padding: 10px;
-}
-
-section {
-    &.content {
-        padding: 15px;
-        h1 {
-            font-size: $header-font-size;
-        }
-
-        p {
-            @extend .main-content;
-            font-size:subheader-font-size($base-font-size);
-            @include css-reset();
-            padding: 5px;
-        }
-    }
-}
-
-//section.content h1 {font-size: 24px;}
-
